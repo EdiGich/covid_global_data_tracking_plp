@@ -26,7 +26,7 @@ The COVID-19 Global Data Tracker is a data analysis project that explores global
      ```bash
      pip install pandas matplotlib seaborn nbformat
      ```
-   - Search and download `owid-covid-data.csv` from [Our World in Data](https://www.kaggle.com/datasets) and place it in your working directory.
+   - Search and download `owid-covid-data.csv` from [Kaggle](https://www.kaggle.com/datasets) and place it in your working directory.
    - Ensure `nbformat>=4.2.0` is installed:
      ```bash
      pip install --upgrade nbformat
